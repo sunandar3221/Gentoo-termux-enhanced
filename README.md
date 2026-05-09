@@ -33,7 +33,7 @@ GENTOO IN TERMUX ENHANCED - DOCUMENTATION
    pkg install proot wget git -y
 
 2. Clone Repository:
-   git clone https://github.com/username-kamu/gentoo-termux-enhanced.git
+   git clone https://github.com/sunandar3221/gentoo-termux-enhanced.git
    cd gentoo-termux-enhanced
 
 3. Jalankan Script:
