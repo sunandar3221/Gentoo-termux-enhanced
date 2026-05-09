@@ -30,7 +30,7 @@ GENTOO IN TERMUX ENHANCED - DOCUMENTATION
 ---------------------
 1. Update Termux & Install Paket:
    pkg update && pkg upgrade
-   pkg install proot wget git aria2 -y
+   pkg install proot wget git -y
 
 2. Clone Repository:
    git clone https://github.com/username-kamu/gentoo-termux-enhanced.git
@@ -48,7 +48,7 @@ GENTOO IN TERMUX ENHANCED - DOCUMENTATION
 --------------------
 1. Update Termux & Install Packages:
    pkg update && pkg upgrade
-   pkg install proot wget git aria2 -y
+   pkg install proot wget git -y
 
 2. Clone Repository:
    git clone https://github.com/sunandar3221/gentoo-termux-enhanced.git
